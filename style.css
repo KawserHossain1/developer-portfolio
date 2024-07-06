@@ -3,13 +3,16 @@
 }
 section{
     display:flex;
+    margin-bottom: 100px;
 }
 .tui{
     width: 50%;
     padding-left: 5%;
 }
 .tui img{
-    width: 100%;
+    width: 90%;
+    border-radius: 20%;
+    margin-right: 0px;
 }
 .face{
     text-decoration: none;
@@ -21,5 +24,11 @@ section{
     border-radius: 10px;
 }
 .top{
-    background-image: url(image\c:\Users\Jack\Downloads\abstract-gear-wheel-mechanism-background_41981-300.webp);
+    background-image: url(images/mk.webp);
+    background-repeat: no-repeat;
+}
+
+.down{
+    background-image: url(images/mk.webp);
+    background-repeat: no-repeat;
 }
