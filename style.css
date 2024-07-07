@@ -1,7 +1,7 @@
 .ja{
     color: chocolate;
 }
-section{
+.jack{
     display:flex;
     margin-bottom: 100px;
 }
@@ -31,4 +31,26 @@ section{
 .down{
     background-image: url(images/mk.webp);
     background-repeat: no-repeat;
+}
+body{
+    border: 0 px;
+}
+.color{
+    color: chocolate;
+}
+.ka{
+    box-shadow: 10px 10px 90px gray;
+    width: 40%;
+    padding-left: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.orange-color{
+    color: tomato;
+}
+#left{
+    border-left: 7px solid tomato;
+}
+#right{
+    border-left:7px solid cornflowerblue;
 }
